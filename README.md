@@ -5,8 +5,6 @@ A simple code that makes a best-fit estimation of parameters of a bidimensional 
 
 If you have any inquiries about the code or the background theory, please read the accompanying paper "Statistical Analysis of a Bidimensional Dark Energy Parametrization", or email me: aldojavier@ciencias.unam.mx
 
-Developed by: Aldo Javier Gamboa Castillo
-
 The code is based on Python 3.7.6.
 
 
